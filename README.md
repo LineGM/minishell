@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineGM/minishell/tree/main/src?color=green"/>
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineGM/minishell?color=green"/>
 </p>
 
 ---
