@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/LineGM/minishell/src?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LineGM/minishell/src?color=yellow"/>
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LineGM/minishell/src?color=blue"/>
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineGM/minishell/src?color=green"/>
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/LineGM/minishell/tree/main/src?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LineGM/minishell/tree/main/src?color=yellow"/>
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LineGM/minishell/tree/main/src?color=blue"/>
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineGM/minishell/tree/main/src?color=green"/>
 </p>
 
 ---
